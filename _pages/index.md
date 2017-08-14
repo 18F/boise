@@ -3,24 +3,24 @@ permalink: /
 title: Discovery Overview
 ---
 
-- The process by which software staged for use in the federal government is checked for security compliance is known as the “Authority to Operate (ATO)” process. The ATO process is usually handled by either government staff or a third-party vendor.
-- “Project Boise” is a working title for a Discovery (exploratory) phase of research that builds upon 18F’s [Compliance Toolkit](https://github.com/18F/compliance-toolkit). The Project Boise team is led by Aidan Feldman, with help from designer Andrew Maier and strategist Timothy Jones.
-- In the short term, the Project Boise team will evaluate the ATO landscape and determine where GSA can provide the most value. In the long term, the Project Boise team hopes to reduce the burden (time, cost, and pain) and improve the effectiveness of the federal government’s software security compliance processes.
+- The process by which software staged for use in the federal government is checked for security compliance is known as the "Authority to Operate (ATO)" process. The ATO process is usually handled by either government staff or a third-party vendor.
+- "Project Boise" is a working title for a Discovery (exploratory) phase of research that builds upon 18F's [Compliance Toolkit](https://github.com/18F/compliance-toolkit). The Project Boise team is led by Aidan Feldman, with help from designer Andrew Maier and strategist Timothy Jones.
+- In the short term, the Project Boise team will evaluate the ATO landscape and determine where GSA can provide the most value. In the long term, the Project Boise team hopes to **reduce the burden (time, cost, and pain) and improve the effectiveness of the federal government's software security compliance processes**.
 
 ## Knowns
 
-- ATO is a very broad concept, and involves a large number of stakeholders.  
+- "ATO" is a very broad concept, and involves a large number of stakeholders.  
 - The ATO process is universally painful for folks both inside and outside government.
 - ATOs impose a significant burden on all agency software projects / acquisitions. They are a consistent blocker to delivery.
 - Requirements and processes vary by agency and context (such as internal systems vs. SaaS), so making a one-size-fits-all solution is difficult.
-- There is lots of [ATO improvement work](areas/) already happening in/around government. Assessing their scope, their “completeness”, their effectiveness, and then the gaps will inform the our future work. We may also find opportunities for consolidation/collaboration between existing efforts.
+- There is lots of [ATO improvement work](areas/) already happening in/around government. Assessing their scope, their "completeness", their effectiveness, and then the gaps will inform the our future work. We may also find opportunities for consolidation/collaboration between existing efforts.
 - GSA/TTS has no regulatory authority. We will need to collaborate with NIST, DHS, and/or OMB if we want to induce policy changes.
 
 ## Goals
 
 ### Long-term
 
-The Project Boise team’s long-term goals include:
+The Project Boise team's long-term goals include:
 
 - Reducing the burden (time, cost, and pain) around compliance.
 - Designing compliance processes that better evaluate the security of systems
@@ -31,6 +31,6 @@ The Project Boise team’s long-term goals include:
 
 More tactically, here are the primary things that Boise will complete in the first ~month:
 
-1. First, we will pick up existing conversations that members of the Boise team have had around ATOs, making sure they are aware of Boise, and submit this pitch for feedback.
-1. Second, we will identify and map common compliance journeys. While NIST’s [Risk Management Framework](http://csrc.nist.gov/groups/SMA/fisma/framework.html) provides a high-level view, our team wants to more fully understand the information ecosystems created across federal agencies: what are the various touchpoints, by the various stakeholders, etc? From there we want to categorize what detailed parts of the process are hard vs. soft requirements, and which are government-wide vs. varying by agency.
-1. Third, we will finish mapping the areas of ATO work. We will take those various efforts and see where they fall along the mapping, to understand overlap/gaps. This will help steer Boise towards a specific area of the ATO process that is un(der)addressed.
+1. First, we will **pick up existing conversations** that members of the Boise team have had around ATOs, making sure they are aware of Boise, and submit this pitch for feedback.
+1. Second, we will **identify and map common compliance journeys**. While NIST's [Risk Management Framework](http://csrc.nist.gov/groups/SMA/fisma/framework.html) provides a high-level view, our team wants to more fully understand the information ecosystems created across federal agencies: what are the various touchpoints, by the various stakeholders, etc? From there we want to categorize what detailed parts of the process are hard vs. soft requirements, and which are government-wide vs. varying by agency.
+1. Third, we will finish **mapping the areas of ATO work**. We will take those various efforts and see where they fall along the mapping, to understand overlap/gaps. This will help steer Boise towards a specific area of the ATO process that is un(der)addressed.

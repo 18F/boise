@@ -10,11 +10,11 @@ The following agencies/programs help issue security-related policies, requiremen
 - [Department of Homeland Security (DHS) Continuous Diagnostics and Mitigation (CDM)](https://www.dhs.gov/cdm)
 - Office of Management and Budget (OMB) / Office of American Innovation (OAI)
 - National Institute of Standards and Technology (NIST)
-- General Services Administration (GSA)’s Federal Risk and Authorization Management Program (FedRAMP)
+- General Services Administration (GSA)'s Federal Risk and Authorization Management Program (FedRAMP)
 
 ## Roles
 
-Within each agency, the following roles are tasked with setting, adapting, enforcing, and/or abiding by their agency’s ATO processes:
+Within each agency, the following roles are tasked with setting, adapting, enforcing, and/or abiding by their agency's ATO processes:
 
 - Chief Information Security Officers (CISOs) and their staff
     - Information System Security Managers (ISSMs) and Officers (ISSOs)

@@ -9,10 +9,13 @@ Projects working on improving ATOs in/around the federal government listed below
         - [https://www.nist.gov/cyberframework/industry-resources](https://www.nist.gov/cyberframework/industry-resources)
     - [Slide decks](https://drive.google.com/drive/u/1/folders/0B69VKWtJQbysVVFBOVI5MGZFT0k)
     - ATOs
-        - Key activities: FedRAMP Tailored, Automation, [Reuse/Sharing](https://docs.google.com/document/d/1g6PhAeqSHMI13lxFxibojb5kRR2jiIaJhuYZfIu6ZUI/edit),  
-        - Blue Sky (Jay thinks there were 3 or 4 groups)
-            - [Sub Group 2 Draft Notes](https://docs.google.com/document/d/1E6RnBI6ZrfzUlPVtJiFpnAQotxI7mlqYK4PopWx3sNA/edit)
-            - [Matt’s Subgroup Notes](https://drive.google.com/open?id=0B69VKWtJQbysR3ZFLW5iRlN0MVBlVjdLeVFzeVpoMDhZa29B)
+        - Key activities:
+            - [FedRAMP Tailored](https://tailored.fedramp.gov/)
+            - [Automation](https://www.fedramp.gov/rfi-on-ato-automation-tools-out-for-industry-response/)
+            - [Reuse/Sharing](https://docs.google.com/document/d/1g6PhAeqSHMI13lxFxibojb5kRR2jiIaJhuYZfIu6ZUI/edit)
+            - Blue Sky
+                - [Sub Group 2 Draft Notes](https://docs.google.com/document/d/1E6RnBI6ZrfzUlPVtJiFpnAQotxI7mlqYK4PopWx3sNA/edit)
+                - [Matt's Subgroup Notes](https://drive.google.com/open?id=0B69VKWtJQbysR3ZFLW5iRlN0MVBlVjdLeVFzeVpoMDhZa29B)
         - [GSA Planned Milestones](https://drive.google.com/drive/folders/0B69VKWtJQbysQlEtYkhFN0cteVk)
 - TTS ATO [Sprinting](https://docs.google.com/document/d/1bGOV_pp_BlAzZsoa2D5pnsinx3R2gVnaBdFvHkwv0ig/edit)/[Streamlining](https://docs.google.com/document/d/10yYBvAVuDBap1xTuS3v7W-m1QC_B2smyyLNXvz7Si4E/edit)
     - Maintains [Before You Ship](https://before-you-ship.18f.gov/)
@@ -20,13 +23,13 @@ Projects working on improving ATOs in/around the federal government listed below
 - [NIST OSCAL](https://drive.google.com/file/d/0BynIxtx-CfkdYTJNRl93R0NGeW8/view)
 - [DevSecOps Framework](https://docs.google.com/document/d/1JRXw7qY-LY7utZjnrw5bV5Lwl0ylA5XAcNZMSqdVI5Q/edit)
     - Scoped to GSA
-- [GSA’s “checkbox SSP”](https://docs.google.com/document/d/10QcB2m5nexmx4d5LO9wNTPSc1zVG6XmthCCA1A154Z8/view)
+- [GSA's "checkbox SSP" experiment](https://docs.google.com/document/d/10QcB2m5nexmx4d5LO9wNTPSc1zVG6XmthCCA1A154Z8/view)
 - Cloud.gov
     - [https://cloud.gov/overview/security/conforming-federal-security-regulations/](https://cloud.gov/overview/security/conforming-federal-security-regulations/)
     - [Container monitoring](https://favro.com/card/1e11108a2da81e3bd7153a7a/18F-5152)
     - [Compliance Toolkit](https://github.com/18F/compliance-toolkit)
         - [OpenControl](http://open-control.org/)
-            - Compliance Masonry
+            - [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
         - [Compliance Viewer](https://compliance-viewer.18f.gov/)
 - [National Geospatial Intelligence Agency (NGA) ATO-in-a-Day](https://docs.google.com/document/d/1wxqZlIaHON-OXSHvS20Zg86xj65m2iWpRvQD3tKx36Y/edit?ts=58ee9245)
     - [GEOINT Services](https://home.geointservices.io/) funded the effort
@@ -46,7 +49,7 @@ Projects working on improving ATOs in/around the federal government listed below
 - [United Compliance Framework (UCF)](https://www.unifiedcompliance.com/)
     - [Common Controls](https://commoncontrolshub.com/)
     - Others from Dorian Cougias [in OpenControl Slack](https://opencontrol.slack.com/archives/C1XEQ3GT0/p1500427872265524)
-        - “Telos, MetricStream, Archer, BluePrint, Aruvio, RSAM, IBM, LockPath, Maclear, NetIQ, SDG, ServiceNow, TCT, Wolters Kluwer”
+        - "Telos, MetricStream, Archer, BluePrint, Aruvio, RSAM, IBM, LockPath, Maclear, NetIQ, SDG, ServiceNow, TCT, Wolters Kluwer"
 - [https://medium.com/@NickSinai/ato-in-a-day-fd53f0ef4a5d](https://medium.com/@NickSinai/ato-in-a-day-fd53f0ef4a5d)
     - [Whitepaper](https://docs.google.com/document/d/19DLFkmfnVSSuN6qCCKyihJg-00109AZt65-Erx0GNpE/edit)
     - Relevant Insight Ventures companies
