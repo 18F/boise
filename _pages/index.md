@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Discovery Overview
+title: Overview
 ---
 
 - The process by which software staged for use in the federal government is checked for security compliance is known as the "Authority to Operate (ATO)" process. The ATO process is usually handled by either government staff or a third-party vendor.
