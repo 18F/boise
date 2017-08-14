@@ -16,6 +16,12 @@ expand_nav: true
 navigation:
 - text: Discovery Overview
   internal: true
+- text: Stakeholders
+  url: stakeholders/
+  internal: true
+- text: Hypotheses
+  url: hypotheses/
+  internal: true
 - text: Areas of ATO work
   url: areas/
   internal: true
