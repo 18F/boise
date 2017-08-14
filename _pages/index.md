@@ -1,10 +1,7 @@
 ---
 permalink: /
+title: Discovery Overview
 ---
-
-# Project Boise
-
-_Discovery Overview_
 
 ## Overview
 

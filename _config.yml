@@ -1,3 +1,5 @@
+name: Project Boise
+
 collections:
   pages:
     output: true
@@ -12,7 +14,7 @@ defaults:
 
 expand_nav: true
 navigation:
-- text: Introduction
+- text: Discovery Overview
   internal: true
 - text: Areas of ATO work
   url: areas/

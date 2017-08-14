@@ -5,27 +5,20 @@ Projects working on improving ATOs in/around the federal government listed below
 
 - OAI work streams
     - NIST Cybersecurity Framework
-        - [https://gist.github.com/JJediny/65438415b5e38ac7560ad5f5597f1877](https://gist.github.com/JJediny/65438415b5e38ac7560ad5f5597f1877)
         - [https://pages.nist.gov/sctools/](https://pages.nist.gov/sctools/)
-        - https://www.nist.gov/cyberframework/industry-resources
+        - [https://www.nist.gov/cyberframework/industry-resources](https://www.nist.gov/cyberframework/industry-resources)
     - [Slide decks](https://drive.google.com/drive/u/1/folders/0B69VKWtJQbysVVFBOVI5MGZFT0k)
     - ATOs
         - Key activities: FedRAMP Tailored, Automation, [Reuse/Sharing](https://docs.google.com/document/d/1g6PhAeqSHMI13lxFxibojb5kRR2jiIaJhuYZfIu6ZUI/edit),  
         - Blue Sky (Jay thinks there were 3 or 4 groups)
             - [Sub Group 2 Draft Notes](https://docs.google.com/document/d/1E6RnBI6ZrfzUlPVtJiFpnAQotxI7mlqYK4PopWx3sNA/edit)
             - [Matt’s Subgroup Notes](https://drive.google.com/open?id=0B69VKWtJQbysR3ZFLW5iRlN0MVBlVjdLeVFzeVpoMDhZa29B)
-
         - [GSA Planned Milestones](https://drive.google.com/drive/folders/0B69VKWtJQbysQlEtYkhFN0cteVk)
-- [Boise](https://docs.google.com/document/d/1CtrCqU4I1k6Z5oASiDGW4WnrbcQXMRZhiYcaXezN4tQ/edit)
-    - This could encapsulate one or more of the others
-    - #project-boise
-- ATO [Sprinting](https://docs.google.com/document/d/1bGOV_pp_BlAzZsoa2D5pnsinx3R2gVnaBdFvHkwv0ig/edit)/[Streamlining](https://docs.google.com/document/d/10yYBvAVuDBap1xTuS3v7W-m1QC_B2smyyLNXvz7Si4E/edit)
-    - #ato-sprinting-team
+- TTS ATO [Sprinting](https://docs.google.com/document/d/1bGOV_pp_BlAzZsoa2D5pnsinx3R2gVnaBdFvHkwv0ig/edit)/[Streamlining](https://docs.google.com/document/d/10yYBvAVuDBap1xTuS3v7W-m1QC_B2smyyLNXvz7Si4E/edit)
     - Maintains [Before You Ship](https://before-you-ship.18f.gov/)
     - (Up until now) scoped to TTS
 - [NIST OSCAL](https://drive.google.com/file/d/0BynIxtx-CfkdYTJNRl93R0NGeW8/view)
 - [DevSecOps Framework](https://docs.google.com/document/d/1JRXw7qY-LY7utZjnrw5bV5Lwl0ylA5XAcNZMSqdVI5Q/edit)
-    - #tts-cio-collaboration
     - Scoped to GSA
 - [GSA’s “checkbox SSP”](https://docs.google.com/document/d/10QcB2m5nexmx4d5LO9wNTPSc1zVG6XmthCCA1A154Z8/view)
 - Cloud.gov
@@ -34,9 +27,7 @@ Projects working on improving ATOs in/around the federal government listed below
     - [Compliance Toolkit](https://github.com/18F/compliance-toolkit)
         - [OpenControl](http://open-control.org/)
             - Compliance Masonry
-
         - [Compliance Viewer](https://compliance-viewer.18f.gov/)
-    - #cg-compliance
 - [National Geospatial Intelligence Agency (NGA) ATO-in-a-Day](https://docs.google.com/document/d/1wxqZlIaHON-OXSHvS20Zg86xj65m2iWpRvQD3tKx36Y/edit?ts=58ee9245)
     - [GEOINT Services](https://home.geointservices.io/) funded the effort
     - [Talk at AWS Public Sector Summit](http://info.evident.io/ATO-in-a-day-aws-public-sector-summit-2017.html)
