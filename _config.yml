@@ -16,6 +16,9 @@ expand_nav: true
 navigation:
 - text: Discovery Overview
   internal: true
+- text: Knowns
+  url: knowns/
+  internal: true
 - text: Stakeholders
   url: stakeholders/
   internal: true
