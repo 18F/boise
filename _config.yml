@@ -18,7 +18,7 @@ defaults:
 
 expand_nav: true
 navigation:
-- text: Discovery Overview
+- text: Overview
   internal: true
 - text: Knowns
   url: knowns/
@@ -28,6 +28,9 @@ navigation:
   internal: true
 - text: Hypotheses
   url: hypotheses/
+  internal: true
+- text: Outcomes
+  url: outcomes/
   internal: true
 - text: Areas of ATO work
   url: areas/
