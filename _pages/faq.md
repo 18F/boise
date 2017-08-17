@@ -13,14 +13,7 @@ No. See the [Knowns](../knowns/) page.
 
 ## What makes the team qualified to work on ATOs?
 
-The Project Boise team are relatively new to government, and even newer to ATOs. We hope that
-
-* Approaching the problem in a humble, collaborative, human-centered way
-* Bringing outside skills
-* Leveraging others' expertise
-* Facilitating conversations that may not otherwise happen
-
-can meaningfully move the needle on the burden and effectiveness of software risk management.
+We aren't, really. At least not on our own. See the [Overview](../).
 
 ## How does Project Boise relate to...
 
