@@ -1,7 +1,15 @@
 ---
 ---
 
+$faq-indent: 2rem;
+
+details {
+  padding-bottom: 1em;
+  padding-left: $faq-indent;
+}
+
 summary {
   font-size: 1.2em;
   font-weight: bold;
+  margin-left: -$faq-indent;
 }
