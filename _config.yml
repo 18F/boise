@@ -20,6 +20,9 @@ expand_nav: true
 navigation:
 - text: Overview
   internal: true
+- text: Background
+  url: background/
+  internal: true
 - text: Knowns
   url: knowns/
   internal: true
