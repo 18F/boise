@@ -5,4 +5,10 @@ The [Technology Transformation Service (TTS)](https://www.gsa.gov/tts), within t
 
 Project Boise was pitched and then funded by [the TTS Incubator](https://docs.google.com/document/d/1tgSTHIrgtUUd-kV6pZE_A-IHOo6Dog7VsIl01qfcYUs/edit) in May 2017 for a Discovery phase, which is meant to evaluate the landscape of the problem, do research, and then determine what next steps should be. This funding should last through mid-September. Aside from this site and a large number of Google Docs, we have not "built" or "fixed" anything, and don't intend to for the duration of Discovery.
 
-The name "Project Boise" is completely arbitrary. It was chosen to avoid influencing product or marketing decisions during the Discovery phase. A state capital seemed like a good code name.
+Per the original Product Lead, the project was
+
+> Codenamed "Boise" as not to influence product or marketing decisions
+
+during the Discovery phase. Per the Acting Director for P&P, the Product Lead
+
+> wanted a truly arbitrary name. I suggested a state capital. [He] accepted; I generated three choices using a [Random Number Generator]; he chose Boise.
