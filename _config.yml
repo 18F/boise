@@ -20,6 +20,9 @@ expand_nav: true
 navigation:
 - text: Overview
   internal: true
+- text: Goals
+  url: goals/
+  internal: true
 - text: Knowns
   url: knowns/
   internal: true
