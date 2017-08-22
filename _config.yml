@@ -20,6 +20,9 @@ expand_nav: true
 navigation:
 - text: Overview
   internal: true
+- text: Background
+  url: background/
+  internal: true
 - text: Goals
   url: goals/
   internal: true
@@ -37,6 +40,9 @@ navigation:
   internal: true
 - text: Areas of ATO work
   url: areas/
+  internal: true
+- text: FAQs
+  url: faq/
   internal: true
 - text: Trello board
   url: https://trello.com/b/2SJKtNUA/project-boise
