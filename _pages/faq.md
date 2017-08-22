@@ -7,7 +7,7 @@ styles:
 
 <details markdown="1">
   <summary>Why is it called "Project Boise"?</summary>
-  Totally arbitrary. See the [Background](../background/) page.
+  The project is (arbitrarily) codenamed "Boise" so as not to influence product or marketing decisions.
 </details>
 
 <details markdown="1">
