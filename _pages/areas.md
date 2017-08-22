@@ -2,7 +2,7 @@
 title: Areas of ATO work
 ---
 
-Projects working on improving ATOs in/around the federal government listed below. Contact info [here](https://docs.google.com/spreadsheets/d/1zbzcFWyWy5uPUufNLGnauvcYPIG9mfJNTZcsv4pCZUY/edit#gid=0) (GSA access only).
+Projects working on improving ATOs in/around the federal government listed below. Contact info [here](https://docs.google.com/spreadsheets/d/1_EIcLXlCgb-LcXMZViyookMyZHA-unLuicMS5_eYEss/edit?ts=598b81c3#gid=0).
 
 - OAI work streams
     - NIST Cybersecurity Framework

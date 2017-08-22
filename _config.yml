@@ -23,6 +23,9 @@ navigation:
 - text: Background
   url: background/
   internal: true
+- text: Goals
+  url: goals/
+  internal: true
 - text: Knowns
   url: knowns/
   internal: true
