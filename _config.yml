@@ -14,11 +14,14 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "guides_style_18f_default"
+      layout: guides_style_18f_default
 
 expand_nav: true
 navigation:
 - text: Overview
+  internal: true
+- text: Updates
+  url: updates/
   internal: true
 - text: Background
   url: background/
@@ -48,6 +51,8 @@ navigation:
   url: https://trello.com/b/2SJKtNUA/project-boise
 - text: Contact us
   url: mailto:aidan.feldman@gsa.gov
+
+permalink: /updates/:year/:month/:day/
 
 repos:
 - name: Boise site
