@@ -9,6 +9,9 @@ collections:
     output: true
     permalink: /:path/
 
+# should match "Contact us" nav item below
+contact_email: aidan.feldman@gsa.gov
+
 defaults:
   -
     scope:
@@ -50,6 +53,7 @@ navigation:
 - text: Trello board
   url: https://trello.com/b/2SJKtNUA/project-boise
 - text: Contact us
+  # should match contact_email above
   url: mailto:aidan.feldman@gsa.gov
 
 permalink: /updates/:year/:month/:day/
