@@ -9,16 +9,22 @@ collections:
     output: true
     permalink: /:path/
 
+# should match "Contact us" nav item below
+contact_email: aidan.feldman@gsa.gov
+
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "guides_style_18f_default"
+      layout: guides_style_18f_default
 
 expand_nav: true
 navigation:
 - text: Overview
+  internal: true
+- text: Updates
+  url: updates/
   internal: true
 - text: Background
   url: background/
@@ -47,7 +53,10 @@ navigation:
 - text: Trello board
   url: https://trello.com/b/2SJKtNUA/project-boise
 - text: Contact us
+  # should match contact_email above
   url: mailto:aidan.feldman@gsa.gov
+
+permalink: /updates/:year/:month/:day/
 
 repos:
 - name: Boise site
