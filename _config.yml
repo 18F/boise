@@ -19,6 +19,8 @@ defaults:
     values:
       layout: guides_style_18f_default
 
+google_analytics_ua: UA-48605964-19
+
 expand_nav: true
 navigation:
 - text: Overview
