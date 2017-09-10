@@ -43,24 +43,3 @@ styles:
   * Has a broader focus, in that we are interested in ATOs for all software, rather than just shared services
   * Ideally will produce something useful for FedRAMP and beyond
 </details>
-
-<details markdown="1">
-  <summary>The Office of American Innovation (OAI) ATO work stream?</summary>
-  **Both**
-
-  * Started around the same time
-  * Are/were convening groups across government to talk about how to improve ATOs
-  * Are/were doing "user"/stakeholder research with agencies
-  * Are frequently communicating with one another
-  * Have an unclear future
-
-  **OAI**
-
-  * Has the convening power of the White House
-  * Isn't looking to "build"/"own" anything
-
-  **Project Boise**
-
-  * Is looking at ATOs from the perspective of "what can TTS offer?"
-  * Is talking to a broader range of stakeholders, including vendors
-</details>
