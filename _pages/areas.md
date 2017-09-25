@@ -22,11 +22,12 @@ Projects working on improving ATOs in/around the federal government listed below
     - Maintains [Before You Ship](https://before-you-ship.18f.gov/)
     - (Up until now) scoped to TTS
 - [NIST OSCAL](https://drive.google.com/file/d/0BynIxtx-CfkdYTJNRl93R0NGeW8/view)
-- [DevSecOps Framework](https://docs.google.com/document/d/1JRXw7qY-LY7utZjnrw5bV5Lwl0ylA5XAcNZMSqdVI5Q/edit)
-    - Scoped to GSA
+- GSA DevSecOps Framework
+    - Search "DevSecOps" under the [GSA Tech Guides](https://tech.gsa.gov/guides/)
 - [GSA's "checkbox SSP" experiment](https://docs.google.com/document/d/10QcB2m5nexmx4d5LO9wNTPSc1zVG6XmthCCA1A154Z8/view)
 - Cloud.gov
     - [https://cloud.gov/overview/security/conforming-federal-security-regulations/](https://cloud.gov/overview/security/conforming-federal-security-regulations/)
+    - [Information for assessors](https://cloud.gov/overview/security/for-assessors/)
     - [Container monitoring](https://favro.com/card/1e11108a2da81e3bd7153a7a/18F-5152)
     - [Compliance Toolkit](https://github.com/18F/compliance-toolkit)
         - [OpenControl](http://open-control.org/)
