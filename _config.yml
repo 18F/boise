@@ -50,6 +50,15 @@ navigation:
     - text: Outcomes
       url: outcomes/
       internal: true
+- text: Post-Discovery
+  url: post-discovery/
+  internal: true
+  children:
+    - text: Synthesis
+      url: synthesis/
+      internal: true
+    - text: Pitch for next Phase
+      url: /assets/phase_3_pitch_deck.pdf
 - text: Areas of ATO work
   url: areas/
   internal: true
