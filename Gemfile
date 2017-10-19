@@ -7,3 +7,8 @@ gem 'jekyll', '~> 3.1.0'
 group :jekyll_plugins do
   gem 'guides_style_18f'
 end
+
+group :development do
+  gem 'html-proofer'
+  gem 'rake'
+end
