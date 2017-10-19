@@ -31,18 +31,25 @@ navigation:
 - text: Background
   url: background/
   internal: true
-- text: Goals
-  url: goals/
-  internal: true
-- text: Stakeholders
-  url: stakeholders/
-  internal: true
+  children:
+    - text: Goals
+      url: goals/
+      internal: true
+    - text: Stakeholders
+      url: stakeholders/
+      internal: true
+    - text: FAQs
+      url: faq/
+      internal: true
 - text: Pre-Discovery
   url: pre-discovery/
   internal: true
   children:
     - text: Knowns
       url: knowns/
+      internal: true
+    - text: Areas of ATO work
+      url: areas/
       internal: true
     - text: Hypotheses
       url: hypotheses/
@@ -59,12 +66,6 @@ navigation:
       internal: true
     - text: Pitch for next Phase
       url: /assets/phase_3_pitch_deck.pdf
-- text: Areas of ATO work
-  url: areas/
-  internal: true
-- text: FAQs
-  url: faq/
-  internal: true
 - text: Trello board
   url: https://trello.com/b/2SJKtNUA/project-boise
 - text: Contact us
