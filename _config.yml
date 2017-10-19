@@ -34,18 +34,22 @@ navigation:
 - text: Goals
   url: goals/
   internal: true
-- text: Knowns
-  url: knowns/
-  internal: true
 - text: Stakeholders
   url: stakeholders/
   internal: true
-- text: Hypotheses
-  url: hypotheses/
+- text: Pre-Discovery
+  url: pre-discovery/
   internal: true
-- text: Outcomes
-  url: outcomes/
-  internal: true
+  children:
+    - text: Knowns
+      url: knowns/
+      internal: true
+    - text: Hypotheses
+      url: hypotheses/
+      internal: true
+    - text: Outcomes
+      url: outcomes/
+      internal: true
 - text: Areas of ATO work
   url: areas/
   internal: true

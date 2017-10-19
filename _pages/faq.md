@@ -12,7 +12,7 @@ styles:
 
 <details markdown="1">
   <summary>Are you going to "fix" ATOs?</summary>
-  No. See the [Knowns](../knowns/) page.
+  No. See the [Knowns](../pre-discovery/knowns/) page.
 </details>
 
 <details markdown="1">
